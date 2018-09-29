@@ -1,0 +1,40 @@
+.page_entiere {
+  width: 780px;
+  margin: auto;
+  font-size: 16px;
+  font-family: "Source sans Pro", Calibri, Thahoma, sans-serif;
+}
+
+.info_photo {
+  height: 250px;
+}
+
+.informations_personnelles {
+  float: left;
+}
+
+.photo {
+  width: 50px;
+  height: 50px;
+  float: right;
+}
+
+.section {
+  margin-bottom: 150px;
+}
+
+.page_sommaire {
+  float: left;
+  width: 230px;
+  height: 450px;
+}
+
+.page_affichage {
+  margin-left: 150px;
+  width: 450px;
+  height: 450px;
+}
+
+.titre {
+    font-weight: bolder;
+}
